@@ -12,7 +12,7 @@ I solve coding challenges every day to improve my **DSA, problem-solving, and SD
 ## 📅 Progress Tracker  
 | Date | Problem | Language | Difficulty |
 |------|---------|-----------|------------|
-| 2025-11-28 | -- | -- | -- |
+| 2025-11-28 | 3310 | Java | Easy |
 
 (I’ll update this automatically as I solve)
 
