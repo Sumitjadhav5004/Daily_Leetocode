@@ -20,6 +20,7 @@ I solve coding challenges every day to improve my **DSA, problem-solving, and SD
 | 2025-12-03 | 3467 | Java | Easy |
 | 2025-12-04 | 37 | Java | Hard |
 | 2025-12-05 | 3432 | Java | Easy |
+| 2025-12-06 | 42 | Java | Hard |
 
 (I’ll update this automatically as I solve)
 
