@@ -26,6 +26,7 @@ I solve coding challenges every day to improve my **DSA, problem-solving, and SD
 | 2026-01-11 | 53 | Java | Medium |
 | 2026-01-17 | 3760 | Java | Medium |
 | 2026-01-17 | 434 | Java | Easy |
+| 2026-01-29 | 3099 | Java | Easy |
 
 (I’ll update this automatically as I solve)
 
